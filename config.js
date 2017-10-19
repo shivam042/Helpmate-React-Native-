@@ -1,0 +1,1 @@
+export default ApiUrl="http:://facebook.com/api";
